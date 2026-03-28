@@ -96,8 +96,8 @@
 			"typeName": "binding"
 		},
 		{
-			"x": 282.5906982421875,
-			"y": 483.36895751953125,
+			"x": 308.8046875,
+			"y": 517.3020629882812,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -138,8 +138,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 144,
-			"y": -45,
+			"x": 99,
+			"y": -72,
 			"z": 1,
 			"meta": {},
 			"id": "camera:page:page",
@@ -225,9 +225,9 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:LBw55fmVWL0z3aUXa2Nx9"
+				"shape:gCltpwz8w6NIfJUYjKTRg"
 			],
-			"hoveredShapeId": "shape:4tWQGZ4cMrNgzLQ6TV5m3",
+			"hoveredShapeId": "shape:Tc15aS0QLdpZ0fJ7PgeKW",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
